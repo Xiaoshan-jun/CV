@@ -56,14 +56,14 @@ education:
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
   - icon: google-scholar
-    icon_pack: fab
+    icon_pack: hb
     link: https://scholar.google.com/citations?hl=zh-CN&authuser=1&user=OvABKHUAAAAJ
+  - icon: github
+    icon_pack: hb
+    link: https://github.com/Xiaoshan-jun
   - icon: linkedin
-    icon_pack: fab
-    link: www.linkedin.com/in/jun-xiang
-  - icon: linkedin
-    icon_pack: fab
-    link: www.linkedin.com/in/jun-xiang
+    icon_pack: hb
+    link: http://www.linkedin.com/in/jun-xiang
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
